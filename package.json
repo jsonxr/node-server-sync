@@ -1,0 +1,19 @@
+{
+  "name": "server-sync",
+  "version": "1.0.0",
+  "description": "Starts/Restarts a node server. Used in conjunction with gulp-watch",
+  "main": "server-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonxr/node-server-sync.git"
+  },
+  "author": "Jason Rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsonxr/node-server-sync/issues"
+  },
+  "homepage": "https://github.com/jsonxr/node-server-sync#readme"
+}
