@@ -1,6 +1,6 @@
 {
   "name": "server-sync",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Starts/Restarts a node server. Used in conjunction with gulp-watch",
   "main": "server-sync.js",
   "scripts": {

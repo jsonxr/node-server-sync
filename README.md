@@ -29,7 +29,8 @@ The following example gulp files assume your application has both a server and a
     // watch files for changes and reload
     gulp.task('serve', ['build'], function() {
       serverSync({
-        script: 'dist/server'
+        script: 'dist/server',
+        args: ['--debug-brk', '--nolazy']
       });
 
       browserSync({
